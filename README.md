@@ -1,4 +1,4 @@
-# Medical_Inventory_Optimiztion
+# Medical Inventory Optimiztion
 # Business Problem
   Bounce rate is increasing significantly leading to patient dissatisfaction.
 # Project Architecture
