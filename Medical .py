@@ -1,3 +1,14 @@
+############################################### PROBLEM DESCRIPTION ########################################################
+'''
+###### Business Problem: Bounce rate is increasing significantly leading to patient dissatisfaction.
+###### Business Objective: Minimize bounce rate.
+###### Business Constraint: Minimize inventory cost.
+Success Criteria:
+###### Business Success Criteria: Reduce bounce rate by atleast 30%
+###### Economic Success Criteria: Increase revenue by atleast 20lacs INR by reducing bounce rate.
+###### ML Success Criteria: Achieve an accuracy of atleast 90%
+'''
+##########################################################################################################################
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
